@@ -4,7 +4,7 @@
     "samples": [
    
   {
-        "name": "30/01/2026",
+        "name": "02/02/2026",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -30,9 +30,193 @@
 {
     "name": "♦️ PELÍCULAS 2025",
     "samples": [
-    {
-    "name": "Asesinato en la Embajada (2025) BluRay 1080Rip [5.5]",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=11df4997f651ee8fa372063fe9e3c8c917b1c882",
+   {
+    "name": "Cronicas de guerra (2025) BluRay Rip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4379d1af548ed27f976580bc5128e2c597c40847",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cronicas de guerra (2025) BluRay 720pRip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=26fe9c3fdd09b32edfca1acb7e7163c3a584be75",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cronicas de guerra (2025) Web dl Hd 1080p  [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a8f2f339675313f21154b18c0a4d36539ecc571f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cronicas de guerra (2025) BluRay Rip [6.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8b05bf5319572c3b2e304d77db1a6448e6975202",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cronicas de guerra (2025) BluRay 720p [6.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0eea3e9212f79a6d307fa007027cba96ed676779",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cronicas de guerra (2025) BluRay 1080p [6.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0ab16a86cd46095f2bda0b30efa9757111aff77a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cronicas de guerra (2025) BluRay 4k 2160P [6.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3fe742dc315f0040c66ad707125d7d4ca8ef13be",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La doncella del lago (2025) BluRay Rip [8.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c7459aa49735fb3f29cf6c0320b9b67734e5f873",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La doncella del lago (2025) BluRay 720pRip [8.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2aebc933d675e3c15f51803487814551fdab2e5a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La doncella del lago (2025) Web dl Hd 1080p  [8.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6c5089c1a566cf7aa3eae9ebf9c1fdfaf440afe8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zootropolis 2  (2025) BluRay Rip [7.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3588ff9af03365bab88eaf70ce25dcb0f6786b0b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zootropolis 2  (2025) BluRay 720pRip [7.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b932e65c4f06f2b6ab3aac9ef5db40c4e4dc9595",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zootropolis 2  (2025) BluRay 4k 2160P [7.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9e5e53245a70e8e65e5e992fcb4736dd27a28330",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zootropolis 2  (2025) Web dl Hd 1080p  [7.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e287160173833a867574b4e6fa0c697b3def5b42",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un blanco facil (2025) BluRay Rip [6.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a7cff3b4929691a399b439806ecb53b4708e6530",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un blanco facil (2025) BluRay 720pRip [6.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=669036a5531180bee2a5320116866d8fa2bad96f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un blanco facil (2025) BluRay 1080Rip [6.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c49d281612253c23ba728eca6435e238af7011f5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un blanco facil (2025) Web dl Hd 1080p  [6.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ddbf19e2db9adfd9b906fbe32e26dfb6fff17fe3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Together (2025) BluRay Rip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=78efa5df5cb897f5dbb2ac096570b046c9358b17",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Together (2025) BluRay 720pRip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cbb99ceabfdbe280551997ad9b59889ad1fcbf8b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Together (2025) BluRay 1080Rip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e260d0685d2870a1d4009be32dd799c7c1e9eb5e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Together (2025) BluRay 4k 2160P [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fcd07b898894b3eee36cebd282888f9a8a65f69a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los hermanos demolicion (2025) BluRay Rip [6.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3592e36df8b8f3b9c30e5ea66d61efbc6e537975",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los hermanos demolicion (2025) BluRay 720pRip [6.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bf0e9ac24302304650ec00f55b81028eccc97fdb",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
@@ -54,6 +238,38 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
+  {
+    "name": "Asesinato en la Embajada (2025) BluRay Rip [5.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8e348eacb11d0199db4734c020f5e51839f089c8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Asesinato en la Embajada (2025) BluRay 720pRip [5.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c98dc4d71d7e47f37c0530afa50bffe7d62f0138",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Asesinato en la Embajada (2025) BluRay 1080Rip [5.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=11df4997f651ee8fa372063fe9e3c8c917b1c882",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Asesinato en la Embajada (2025) Web dl Hd 1080p  [5.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fa2ac0e663cddacafb5691f9b129cc96d90a7575",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }, 
   {
     "name": "Una carta a mi juventud (2025) BluRay Rip [7.0]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=7cca15a36007fbb76b62a3d818f7492d3baadc8c",
@@ -3430,47 +3646,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   },
-  {
-    "name": "Cronicas de guerra (2025) BluRay Rip [6.9*]",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=8b05bf5319572c3b2e304d77db1a6448e6975202",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Cronicas de guerra (2025) BluRay 720p [6.9*]",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=0eea3e9212f79a6d307fa007027cba96ed676779",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Cronicas de guerra (2025) BluRay 1080p [6.9*]",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=0ab16a86cd46095f2bda0b30efa9757111aff77a",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Cronicas de guerra (2025) web dl Hd 1080p [6.9*]",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=a8f2f339675313f21154b18c0a4d36539ecc571f",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "Cronicas de guerra (2025) BluRay 4k 2160P [6.9*]",
-    "uri": "http://127.0.0.1:6878/ace/getstream?id=3fe742dc315f0040c66ad707125d7d4ca8ef13be",
-    "kid": "",
-    "key": "",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
+ {
     "name": "Border Hunters (2025) BluRay Rip [7.0]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=68117b942488007d4e03f3922d697ad0f6978baf",
     "kid": "",
