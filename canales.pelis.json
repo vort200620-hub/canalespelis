@@ -4,7 +4,7 @@
     "samples": [
    
   {
-        "name": "02/02/2026",
+        "name": "06/02/2026",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -18,7 +18,7 @@
     "samples": [
    
   {
-        "name": "Active Ace Serve para visionar las películas. Siempre como mínimo una de las opciones la película se abre aunque suele tardar.",
+        "name": "Active Ace Serve para visionar las películas. Siempre como mínimo una de las opciones la película se abre aunque suela tardar.",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -30,6 +30,78 @@
 {
     "name": "♦️ PELÍCULAS 2025",
     "samples": [
+      {
+    "name": "La ley de Jenny Pen (2025) BluRay Rip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4b1858aa149b95b8df2b176964400294d5856af3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La ley de Jenny Pen (2025) BluRay 1080Rip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0eb010e7543df75e62115b618abfdf04991be4f4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La ley de Jenny Pen (2025) BluRay 4k 2160P [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=76bcee7d673a30bcf3e616f3213d02b1a43f5e2d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Aunque nuestro amor se desvanezca esta noche (2025) BluRay Rip [8.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=54cccc3543c835bd487d85cfdb43bbbda6457b8f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Aunque nuestro amor se desvanezca esta noche (2025) BluRay 720pRip [8.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4cc0e015cf67bd45a3ab32d8ff5a63f311b5b914",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Diablo (2025) BluRay Rip [7.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=347f46577ac2e8d05eff49b32a75d9171342e8f5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Diablo (2025) BluRay 720pRip [7.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7741eba53e07cd849e30968d06456cd1d5611811",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Diablo (2025) BluRay 1080Rip [7.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=285dc86be7265b64c42d769ee6a4a70da1cd29ae",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Diablo (2025) BluRay 4k 2160P [7.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0f030ba550fbac6d03e7096200eb7075ca09cc30",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }, 
    {
     "name": "Cronicas de guerra (2025) BluRay Rip [6.8]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=4379d1af548ed27f976580bc5128e2c597c40847",
