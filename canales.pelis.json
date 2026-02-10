@@ -4,7 +4,7 @@
     "samples": [
    
   {
-        "name": "06/02/2026",
+        "name": "10/02/2026",
         "uri": "http://fastream.xyz:8080/24114Propio@Reseam/CHUPALOPAOCULIAO****/",
         "kid": "",
         "key": "",
@@ -31,6 +31,110 @@
     "name": "♦️ PELÍCULAS 2025",
     "samples": [
       {
+    "name": "Zona de caza  (2025) BluRay Rip [6.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a3923f5c4462de4c02c4e802d5b8ea0c20f28c8a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zona de caza  (2025) BluRay 720pRip [6.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bef475d914b1d5c97c02c046b8dade97ffd87ce6",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La Meta Es El Amor  (2025) BluRay Rip [5.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=77edbf098cbbd2862beefcb75a6760ec0b7bdf31",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La Meta Es El Amor  (2025) BluRay 720pRip [5.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=941b7b4024d1ecde7cddd3b7df222cb18756b50a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Vieja Loca (2025) BluRay Rip [5.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3c9c31ae11f43751d9a36258d8d152b2890e137d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Vieja Loca (2025) BluRay 720pRip [5.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e1d5086a445408bbb4383536907b5c17711a7ee1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un simple Accidente (2025) BluRay Rip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ce0faa08f3fca0ee2637ad290448ac28477372d6",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un simple Accidente (2025) BluRay 720pRip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2d36b9ae882dc967f5b706d0c626ba69070ab2ea",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un simple Accidente (2025) BluRay 1080Rip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ce0faa08f3fca0ee2637ad290448ac28477372d6",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un Fantasma Util (2025) BluRay Rip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2020a8c15e1d10776b6568d49be62cac81c98e7e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un Fantasma Util (2025) BluRay 720pRip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ced7efd523c22f1275ceaff7d72b17f76ce6dd92",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Uf Solo amigos (2025) BluRay Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3c9c31ae11f43751d9a36258d8d152b2890e137d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Uf Solo amigos (2025) BluRay 720pRip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=11172b418d0e9b9ae65c5716cbea957d1fdc0439",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }, 
+  {
     "name": "La ley de Jenny Pen (2025) BluRay Rip [6.0]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=4b1858aa149b95b8df2b176964400294d5856af3",
     "kid": "",
