@@ -27,10 +27,2431 @@
        }
    ]
  },
+ {
+    "name": "♦️ PELÍCULAS 2026",
+    "samples": [
+      {
+    "name": "Ruta de escape (2026) BluRay Rip [7.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=14bd8336c373f8a813a06be70d109baae1457bcf",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ruta de escape (2026) BluRay 720pRip [7.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=df2b7ec1fe99636b96302d2f2a18e234bbf36c11",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ruta de escape (2026) BluRay 1080Rip [7.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fbadf7e6fada702c2af7c1e9199269fca629eb16",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ruta de escape (2026) BluRay 4k 2160P [7.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c41b191731a273082f23f76d0740e0f30cae80ee",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un pueblo al rescate  (2026) BluRay Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0ba4a0378a1fb0fcb8bc00c8511c291109b29cd1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un pueblo al rescate  (2026) BluRay 720pRip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e5c637a8b641068b982d6f0800d81bbb9aac282d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Marty Supreme (2026) BluRay Rip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d5a7945be36585d0a0f39dffbd14884959b3b210",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Marty Supreme (2026) BluRay 720pRip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=db8c3983e59e125fe729fc3d14c7c16c0959dd49",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Marty Supreme (2026) BluRay 1080Rip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a010a7d6e37c4c3ba04349bd9b89731cd480f2a9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Marty Supreme (2026) BluRay 4k 2160P [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a3980a5263c5405396a2fe3511ed1fd11bebed7e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Humint (2026) BluRay Rip [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=46741367095ba301dbab966c630889c09235e70e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Humint (2026) BluRay 720p [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=076de0e9d5c32ba4ad84bded2c7cb6bfcaebebac",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Humint (2026) web dl Hd 1080p [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a3bd14034f822e7914cf5ae73aa6f009981d2c88",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "ladra (2026) BluRay Rip [5.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=db49836dd0bb2530ae1e778b4753e12b9f1b7d39",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "ladra (2026) BluRay 720p [5.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4b53d4bfd68d3dae33cb30b86560659b63ec27a4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "ladra (2026) web dl Hd 1080p [5.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0d76e09f1d9c26515eff2320ff4aac283900150c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Scream 7 (2026) BluRay Rip [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=940cfe74b0ced93f015b9e397851832fe2cd5f72",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Scream 7 (2026) BluRay 720p [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1ebe977955baa00f3709ba1f8261eefb1c92af73",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Scream 7 (2026) BluRay 1080p [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b35b6ac1ebc0e6453de5c58dbc4e7443d167e80e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Scream 7 (2026) web dl Hd 1080p [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1776c5f1dcb380d0fb58ba76b2ff4353d79ad743",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Scream 7 (2026) BluRay 4k 2160P [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a91406dc355606785a408f13df3b7913b619bf33",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cumbres Borrascosas (2026) BluRay Rip [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=89a831d0e891ccba7a93b20cc5742c5ef9c06290",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cumbres Borrascosas (2026) BluRay 720p [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3179db787cdac16ccd8597427968595b6f18b141",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cumbres Borrascosas (2026) BluRay 1080p [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f0972e7ff34fe140a792f8961d3952046fedf46c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cumbres Borrascosas (2026) web dl Hd 1080p [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c5d7d07f096c527f23f33b2b69ea14d769ec5ee0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cumbres Borrascosas (2026) BluRay 4k 2160P [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cba4f02c29d896f0a943cbdcab07087cee4d8bde",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cumbres borrascosas (2026) BluRay Rip [6.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=89a831d0e891ccba7a93b20cc5742c5ef9c06290",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cumbres borrascosas (2026) BluRay 720pRip [6.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3179db787cdac16ccd8597427968595b6f18b141",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cumbres borrascosas (2026) BluRay 1080Rip [6.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f0972e7ff34fe140a792f8961d3952046fedf46c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cumbres borrascosas (2026) BluRay 4k 2160P [6.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cba4f02c29d896f0a943cbdcab07087cee4d8bde",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El testamento de Ann Lee (2026) BluRay Rip [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0f835e777194899494f44265fde7942b4199075c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El testamento de Ann Lee (2026) BluRay 4k 2160P [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9c5772b36d376fa8ee9ed7a173ecd2582e4d1c1b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Coartadas (2026) BluRay 1080Rip [5.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7661592488ca3883f6a56f1e3f47d8cd6fc69a9a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Valor sentimental (2026) BluRay 1080Rip [7.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4a08529f9b589614337956c2e5e035e59bae5e51",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Valor sentimental (2026) BluRay 4k 2160P [7.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5a0f19629be9529703495e2eb27e141037ed3bb9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "SEND HELP (Enviad ayuda) (2026) BluRay Rip [7.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bcade0428a474cfe2fdd72e6db789ad3cbc8760f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "SEND HELP (Enviad ayuda) (2026) BluRay 720p [7.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f94f6c0c8e41a69a8f88f58e5cc1f8aa8d04d2ff",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "SEND HELP (Enviad ayuda) (2026) BluRay 1080p [7.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9fff99daa74b0df08bb1a016b7bfc39702b7af26",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "SEND HELP (Enviad ayuda) (2026) web dl Hd 1080p [7.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0f05e32edb3ee5f0b09316554c2c571fdbf2e44b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Pretty Lethal (2026) BluRay Rip [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0faa71d564e65765673ff623daa04fdcde0910f3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Pretty Lethal (2026) BluRay 720p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=218ee90c37dc134630b616e042485cd59f2a807d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Pretty Lethal (2026) BluRay 1080p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b00c302f9b7778ada08b28c71210cf6c5db9f0c5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Pretty Lethal (2026) web dl Hd 1080p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3390c20d6c4ddfc6234ed0bcee7470a6f47eb3b9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Pretty Lethal (2026) BluRay 4k 2160P [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b01803adeed7ac3b2c1bfe965b1cb4e971e08fd2",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La linea roja (2026) BluRay Rip [7.2*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b66be4f05b5ffb78617e2a09b25a42eea2f9e734",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La linea roja (2026) BluRay 720p [7.2*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e2a834f2cbf8dd3ea59824d9c45b8a989c4d0931",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La linea roja (2026) web dl Hd 1080p [7.2*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=886898ab0c2b14e75bb530dbb9c6264f0f2e41b1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "53 domingos (2026) BluRay Rip [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=31c12e6c159b91ee800062b8c31a07811cfbc0bb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "53 domingos (2026) BluRay 720p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=82b531609ea80d41061ec7e055b086de6c4fcce7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "53 domingos (2026) web dl Hd 1080p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1d8c4b8ff84f0a51f0777fadb7fa89673cacba5b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mike y Nick y Nick y Alice (2026) BluRay Rip [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=73da2d68060e323b55c41030c3653783aa2ccbe8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mike y Nick y Nick y Alice (2026) BluRay 720p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=35fc266436dbc72b492ceda78ae33d751b15d283",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mike y Nick y Nick y Alice (2026) web dl Hd 1080p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=43a21a904aeae2505a7e8379c2681d2fa5c11acd",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ciudad Sin Sueno (2026) BluRay Rip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0aa354304a707d26636789c04ea460464d51a279",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ciudad Sin Sueno (2026) BluRay 720pRip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d800f086de79feda04d235c29f6ada61b298402f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Arde la sangre (2026) BluRay Rip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c102c23b38c127cdf01be353d109b1fac1bf0ca4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Arde la sangre (2026) BluRay 720pRip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0e9dd693a6a89ada99de711a182940093a7d7dcd",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El retorno de Piglet (2026) BluRay Rip [6.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4e14c279f6750fe7337fd7fafef4dcad960bb9d3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La cabana siniestra (2026) BluRay Rip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=63b9f78c644b69ef9d9eb4889c1be89f4f8ea924",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La cabana siniestra (2026) BluRay 720pRip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d374f4b187c16f893e54e4ad1c58d995e7998e59",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Esa cosa con alas (2026) BluRay Rip [6.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=32c829404f01271f577abda710141de870ec2a0e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Esa cosa con alas (2026) BluRay 720pRip [6.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=eb14cf10d067bcf6a5193b53a4d78b62550889a5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Esa cosa con alas (2026) BluRay 1080Rip [6.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=41d696220aaaa160adae7352acb2579f6e3cbe00",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Esa cosa con alas (2026) BluRay 4k 2160P [6.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=08181849c81cc13723b2d0304572745d31c287eb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Lilly Lives Alone (2026) BluRay Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=389791227ce644022219f537e43ce1822042f012",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Lilly Lives Alone (2026) BluRay 720pRip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9e51962f7c985590cca65344bbb836fe91fda65f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zeta (2026) BluRay Rip [6.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6fcdba2ed312b0cc43b3dac2bd0a0c4c47edae30",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zeta (2026) BluRay 720p [6.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8d19a68987634628554583774bee4000595116e4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zeta (2026) BluRay 1080p [6.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3d43716918d2bd76d80da4d8a53d7b5dbc67e30f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zeta (2026) web dl Hd 1080p [6.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a9a1e8250eaa33df6c3ec1125d5b255b6359131b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zeta (2026) BluRay 4k 2160P [6.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=654d091f4d22d53f91725fc512d289a998082181",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Perros y Diablos  (2026) BluRay Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bf7e459738af2e5c10ff1448b7286282fee94408",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Perros y Diablos  (2026) BluRay 720pRip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=77cd0f125a7cde11216ea73940e78ffff516bd19",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Peaky Blinders El hombre inmortal (2026) BluRay Rip [7.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=aaf4f2666f76d27151e74efeec535b31fc987b5b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Peaky Blinders El hombre inmortal (2026) BluRay 720p [7.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=95669cb0b9b5557462a56335f8ea04729749f072",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Peaky Blinders El hombre inmortal (2026) web dl Hd 1080p [7.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=68df11867ed9c86098f3022ea813e80de8bdbfb7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Peaky Blinders El hombre inmortal (2026) BluRay 4k 2160P [7.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=38fba226bf0a25f2a618b996e638fdfa8f901101",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No hay otra opcion (2026) BluRay Rip [7.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c594ab9da54f9f2a9777572e9377018ae9a5c444",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No hay otra opcion (2026) BluRay 720pRip [7.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fc66ea24e706e87d49ad598247374e6c6ee74fb4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No hay otra opcion (2026) BluRay 1080Rip [7.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=485703efa73fed56d54304706f5945f3aa3ffba9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No hay otra opcion (2026) BluRay 4k 2160P [7.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e26cd38758dee74a92867d625af1dc05dae798b2",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Recien Nacidas (2026) BluRay Rip [6.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8bc896650474de8c4ea5c751d9cf2c7d7ec0fe6d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Recien Nacidas (2026) BluRay 720pRip [6.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5669ce895257aec314c6a1ddb0995d37af49d372",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Espacio Tiempo (2026) BluRay 720pRip [5.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c89789663e39c583424f01ec1b4aa2be048e509a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Espacio Tiempo (2026) BluRay 1080Rip [5.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7b46198db6e820afc9564d72d3f6e0f824d07a40",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Unidad Alpha (2026) BluRay Rip [5.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=739c4a02885ca5c6c187aa238413d40273ee7c94",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "House on Eden (2026) BluRay Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=632590128ffc8199801f0cb8ce8aebd07291b0a9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "House on Eden (2026) BluRay 1080Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=30e5b281428d89c8e88771077b46b113557ac1c4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }
+]
+}, 
 {
     "name": "♦️ PELÍCULAS 2025",
     "samples": [
-        {
+      {
+    "name": "El testamento de Ann Lee (2025) BluRay Rip [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0f835e777194899494f44265fde7942b4199075c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El testamento de Ann Lee (2025) BluRay 720p [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a2c288bb841c926b98bfd650927a19facad1f428",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El testamento de Ann Lee (2025) BluRay 1080p [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=579f432b1563f5a048f38dddabaae9afe329a052",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El testamento de Ann Lee (2025) web dl Hd 1080p [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2fedbbfe13773b416515bcaa2a703d2b81e8eea8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El testamento de Ann Lee (2025) BluRay 4k 2160P [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9c5772b36d376fa8ee9ed7a173ecd2582e4d1c1b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los colores del tiempo (2025) BluRay Rip [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f97887f72c3d7f437945f85f13d1b70adfa10599",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los colores del tiempo (2025) BluRay 720p [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=be50c045b29f8154e952ece9c067b7d5129361a3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los colores del tiempo (2025) web dl Hd 1080p [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d7802d3559b053e94f75bb4cfef2c17b298f1942",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Avatar Fuego y ceniza (2025) BluRay Rip [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c7f98f49dd1fcf5d5e7aaa1e1bcd77492a57eae2",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Avata: Fuego y ceniza (2025) BluRay 720p [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=de972c1c369e06185e9b0c24d8bb51b3386531fa",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Avatar Fuego y ceniza (2025) BluRay 1080p [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b2b665cb6543a3635655324c298300ea8302b672",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Avatar Fuego y ceniza (2025) web dl Hd 1080p [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c82fd53a3bb39b1d01fca2dcf81a153f0fb8c29f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Avatar Fuego y ceniza (2025) BluRay 4k 2160P [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3db0bf5f1ec6495ed9a56fa00cc021742e9ce4db",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Scarlet (2025) BluRay 720p [7.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2952d4e213cb543452d59b45324fbb3ac95fa473",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Scarlet (2025) web dl Hd 1080p [7.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b30ea326bc765bd3956939888749fc20602ea9f8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Esa Cosa con Alas (2025) BluRay Rip [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=32c829404f01271f577abda710141de870ec2a0e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Esa Cosa con Alas (2025) BluRay 720p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=eb14cf10d067bcf6a5193b53a4d78b62550889a5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Esa Cosa con Alas (2025) BluRay 1080p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=41d696220aaaa160adae7352acb2579f6e3cbe00",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Esa Cosa con Alas (2025) web dl Hd 1080p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9d288540cdcb5286efc008f03b7ad294fad34424",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Esa Cosa con Alas (2025) BluRay 4k 2160P [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=08181849c81cc13723b2d0304572745d31c287eb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ciudad sin sueno (2025) BluRay Rip [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0aa354304a707d26636789c04ea460464d51a279",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ciudad sin sueno (2025) BluRay 720p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d800f086de79feda04d235c29f6ada61b298402f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ciudad sin sueno (2025) web dl Hd 1080p [6.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7676bb42a13e79ada8bb9a1a5db303433952d3bd",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La bala (2025) BluRay Rip [5.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bea9b39341edb56c327f90166ab340efc6674c58",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La bala (2025) BluRay 720p [5.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d0c93d510adb1222000376b9ba3ca592d181ff1b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La bala (2025) web dl Hd 1080p [5.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=659c088efe3493c1dab04d091986bc5682d359d7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Arde la sangre (2025) BluRay Rip [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c102c23b38c127cdf01be353d109b1fac1bf0ca4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Arde la sangre (2025) BluRay 720p [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0e9dd693a6a89ada99de711a182940093a7d7dcd",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Arde la sangre (2025) web dl Hd 1080p [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3f6aceeafd39d9ece4d79182743159fe42f1b0c8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sin conexion (2025) BluRay Rip [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=286abbf885684a15c56263fcfe1b9a3ba8ca8c1b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sin conexion (2025) BluRay 720p [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c1fa65c3456349b4c1b1a31e1132d07fff4d6ec6",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sin conexion (2025) web dl Hd 1080p [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d1d647a1bf77620afb0ba4fca9e0706eec35fa62",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Golpes (2025) BluRay Rip [6.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=90e862937beab049ef303588e548dfca9f39d031",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Golpes (2025) BluRay 720p [6.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d2b442978dece8eb588c560ad0a7fb730bf2d6dc",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Golpes (2025) web dl Hd 1080p [6.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b2199f018be058b62ae7f8a7b976c54a4a410b45",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Valor sentimental (2025) BluRay Rip [7.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=116e40f15b2e97cc9827bd262759722083a008bb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Valor sentimental (2025) BluRay 720p [7.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=86800c36ed3623e938741109affb1a5befaeb45a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Valor sentimental (2025) web dl Hd 1080p [7.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=58aeea3985cd3bfdd3445994d783d62cb7e5cefa",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Urchin (2025) BluRay Rip [6.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0e6c9b7bebacf8ec95ed1bf561d4a3b8e8e3e334",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Urchin (2025) BluRay 720p [6.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c27dd0035caea0c35233f2dfda1c7fc6fc2a9004",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Urchin (2025) web dl Hd 1080p [6.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=65e31124fe4ce4855b24200e5b16f7b9284281ee",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Volver a ti (2025) BluRay Rip [7.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=db97b2b7f6913b66cd3d66d2b80a7e32126f31b9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Volver a ti (2025) BluRay 720p [7.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c76c6578e29f006fc4fc18461b7dbd3cbe66b33f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Volver a ti (2025) web dl Hd 1080p [7.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=36bf80d97a52ab3e2046466fa8d20d5e21a507b1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No Hit Wonder (2025) BluRay Rip [7.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3ca0d1a89f90d6c8c8d1700016fa4edda2864335",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No Hit Wonder (2025) BluRay 720p [7.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7ba26b705c9898df21ab0d5d309ddfb6b5e59133",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No Hit Wonder (2025) BluRay 1080p [7.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=85433ae5dbbbc65965076e2f852a7d6a2efc1155",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No Hit Wonder (2025) web dl Hd 1080p [7.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=39dfb5bb7267a40ad2bc5a5512e127606810779d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ajuste de cuentas La ciudad de los lobos (2025) BluRay Rip [6.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3b1894e74b14f6b21549907b7e4314a677f8d7e5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ajuste de cuentas La ciudad de los lobos (2025) BluRay 720p [6.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f90925fc6e91c027fbf28d0b33de96a23d3360c7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Ajuste de cuentas La ciudad de los lobos (2025) web dl Hd 1080p [6.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=97370a42a6cf8919defa0b2b43210671dd9fe871",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Keeper (2025) BluRay Rip [5.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e39988dc73aaff1aa255af9b95f74c763529769b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Keeper (2025) BluRay 720p [5.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=22cef5961393f612e42f5d98676c189e9bc711ce",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Keeper (2025) web dl Hd 1080p [5.7*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dcec7d69408f9d27a242239ba90ca18fca6ae81a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nuestras hijas (2025) BluRay Rip [7.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3e303d6113edcdb8bbab415239eb07b036b4053c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nuestras hijas (2025) BluRay 720p [7.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=23eef7c9b85e627c7c640cd9410039aa6a0d4d2c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nuestras hijas (2025) web dl Hd 1080p [7.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=00609b7110a0b049ed87cda9a0b5bd9b0e88279e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Siempre es invierno (2025) BluRay Rip [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=86d02533670b3b3d4e04c9eb5b36010ebc4f52bc",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Siempre es invierno (2025) BluRay 720p [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4e2c36427006c53165ce3175ac144515c29e56a6",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Siempre es invierno (2025) web dl Hd 1080p [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=07e999a53a16aa69c8f44ede28d60ddd44909691",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La voz de Hind (2025) BluRay Rip [8.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=95d4d8313b45a2afe9c2e990ac4f24897e4aef4d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La voz de Hind (2025) BluRay 720p [8.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3461d4fe2516e81747d9bfaf05b3abc3ac2ddbdd",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La voz de Hind (2025) web dl Hd 1080p [8.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4d48fcd1115a3314bc38b188f167f18c2fc07e1f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Alpha (2025) BluRay Rip [6.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=872e39b992260c3cc2a4d6edb31ca90d3d92b71b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Alpha (2025) BluRay 720p [6.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=53bc7eba732cded80197a5cbc793ff9fe6aff727",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Alpha (2025) web dl Hd 1080p [6.4*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cd178499339d87528148ced43f98e9d7d327170d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No hay otra opcion (2025) BluRay Rip [7.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c594ab9da54f9f2a9777572e9377018ae9a5c444",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No hay otra opcion (2025) BluRay 720p [7.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fc66ea24e706e87d49ad598247374e6c6ee74fb4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No hay otra opcion (2025) BluRay 1080p [7.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=485703efa73fed56d54304706f5945f3aa3ffba9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No hay otra opcion (2025) web dl Hd 1080p [7.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6c57f133989577bee6c9e83a4bd68a9b8049b69b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No hay otra opcion (2025) BluRay 4k 2160P [7.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e26cd38758dee74a92867d625af1dc05dae798b2",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El ultimo rodeo (2025) BluRay Rip [7.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4d53367a2864ef8daa18a2b07630bc2ed7f813be",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El ultimo rodeo (2025) BluRay 720p [7.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e3c7910018c8a518be39e41ef18e27f045874b7b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El ultimo rodeo (2025) BluRay 1080p [7.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1e47eec25819b39780c9c24e4215aceaffaf9b30",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El ultimo rodeo (2025) web dl Hd 1080p [7.6*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9228c7866e1229f2f7dc97b539fd1db9778e0378",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Subsuelo (2025) BluRay Rip [5.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fc47053b2cf792091fb48f50052b35f4e28812e0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Subsuelo (2025) BluRay 720p [5.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b7a55570ae8f731557cd846076b8ff03e052e79d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Subsuelo (2025) web dl Hd 1080p [5.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a438dfbc5698c5bea0e4d3d41ddfa83e5f68d2eb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Emily la criminal  (2025) BluRay Rip [6.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=88d2407af91b6a051c4a0e6463bd5e2dfb1ac1fe",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Emily la criminal  (2025) BluRay 720pRip [6.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e9fe0489ac464f23467c643961f78af8b42c86b0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La asistenta (2025) BluRay Rip [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ffd3f2f35cce127fdaf398d6bf918afbdf4fd0f0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La asistenta (2025) BluRay 720p [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6b57aa1b64cf5cf0f6a312ab2e420da2141b2225",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La asistenta (2025) BluRay 1080p [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=860f3f5c7006aef1891bce9a07fed38e89aac603",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La asistenta (2025) web dl Hd 1080p [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e13b2856b81d1134414469d33b7ef8fb21dc0582",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La asistenta (2025) BluRay 4k 2160P [7.3*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b376a4f3ffce0117a3e6cc79abc6aca54eed7a4e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La larga marcha (2025) BluRay Rip [6.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=68545cebaafcbd659549271d72598d29ba4b5f12",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La larga marcha (2025) BluRay 720p [6.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=49b549b0d7712bf9781ebdcddb35ade17210b13c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La larga marcha (2025) BluRay 1080p [6.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=aa5cdbd626baeae97dbecfd988c97598331d490d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La larga marcha (2025) web dl Hd 1080p [6.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0fa56a99528fb6a195a15624e8b3d6db2cf368ce",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La larga marcha (2025) BluRay 4k 2160P [6.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=196aa4bf4a1b165da1e7103830a88b8f9cdc36f1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El ultimo tiroteo (2025) BluRay Rip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=970d51043c06a5bf09a2e62552ac72302a7781bd",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El ultimo tiroteo (2025) BluRay 720pRip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7f69bef69e5e16f50a967a4d44f0b42993f392bf",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El ultimo tiroteo (2025) BluRay 1080Rip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=eff66dccd933bb7b935db9735752efc09be1b077",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El ultimo tiroteo (2025) BluRay 4k 2160P [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2e9eb30cf82d2eab7c3b0f7631f2554228e05aca",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "artista en guerra (2025) BluRay Rip [4.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=62e2b04bdf181091ae43510575b2508f4c4428b1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "artista en guerra (2025) BluRay 720p [4.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=19d8f5123194302a54437188edf5c9597cecde60",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "artista en guerra (2025) web dl Hd 1080p [4.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=435b2fd856c481a3ce6f5b26b9f0d609b859d8e9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Arlempdes (2025) BluRay Rip [5.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cef8e8b1920710d669d3d300b531364c94e58c56",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Arlempdes (2025) BluRay 720pRip [5.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=106b20425ae38b1352dbec8e132361b916098217",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El accidente de piano (2025) BluRay Rip [6.2*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6d19dd27f62a846bad84dda5aa3b286e1dab2366",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El accidente de piano (2025) BluRay 720p [6.2*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=263276893776e92828185e8eb7d9bec489302d5d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El accidente de piano (2025) BluRay 1080p [6.2*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8bf7566c54ebe9e6e907260385d6cfb210f4c84f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El accidente de piano (2025) web dl Hd 1080p [6.2*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=00396096183ae83851ad804caa66f9cc776efd15",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Deathstalker (2025) BluRay Rip [6.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1af36ecb25f4b63be78ff7e921a562e31a418513",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Deathstalker (2025) BluRay 720p [6.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=13181cd22ac6d757173b93be17f253aaa5c5ae61",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Deathstalker (2025) BluRay 1080p [6.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a1d0c67ad8e168c9c5b9fc4826c453bab773127e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Deathstalker (2025) web dl Hd 1080p [6.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5e2e09c0ed3f79be73196a7f082233eac3c8e709",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Deathstalker (2025) BluRay 4k 2160P [6.1*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5a18bea49b3d7d15118d23fb05249a09be9110df",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Turbulencias (2025) BluRay Rip [5.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8304dd7ed32db0c0217e76ccfdea01ec5e9e7e0a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Turbulencias (2025) BluRay 720pRip [5.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=30a34fed909d4f7dda1563ec7361e47bf00b3593",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Momentos Para Recordar (2025) BluRay Rip [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=264b72981f51d0c5e0bae69144646c58dd5349f4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Momentos Para Recordar (2025) BluRay 720pRip [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ef48fc1efa9c08b2e73c85cd3ab1603e423d3a22",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Acusada (2025) BluRay Rip [5.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5812f10491ccc6b7558dad6d30c982ff1f1ff6f1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Acusada (2025) BluRay 720pRip [5.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b1a786c5bfebaff767515acde43002d1ee9b518f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El descendiente (2025) BluRay Rip [5.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b5bfd197242b85c11a2af13b690733e4d3b8520d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El descendiente (2025) BluRay 720pRip [5.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c27100e54fe6f65278238078967a7d491d5bace8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El descendiente (2025) BluRay 4k 2160P [5.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cfd1e211216113834626c72d648f31bbab292429",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Valiant One (2025) BluRay Rip [6.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=08a16e6ecc6b5a0d5655aaff1f7b404f465d39f7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Valiant One (2025) BluRay 720pRip [6.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d47862a222ff24210d67381b8bdf49a7df4c349f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "The Occupant  (2025) BluRay Rip [5.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8cdfde1ea4ef90435f91070e097a8ee8253b2450",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "The Occupant  (2025) BluRay 720pRip [5.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=423cf1451189548c06e2e6717acae5fb5228d8dc",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "The Occupant  (2025) BluRay 1080Rip [5.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=98376e15716dffc72a91111cc62f56c82697335b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Reversion (2025) BluRay Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2d6f12a3ac99ee63b6caf0ac66b7f07a2d37bad0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Reversion (2025) BluRay 720pRip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b13f79aa9576b9481b59668ffccbec5066353254",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Reversion (2025) Web dl Hd 1080p  [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3b37770eecb517758ae98c105514bd0c777abf93",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Maquina de guerra  (2025) BluRay Rip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fb92f4ceacf13696ac89401263b934f00f02ac8e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Maquina de guerra  (2025) BluRay 720pRip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f3cbe1c01baab9fc3050dde7132c8a7bb7dc5378",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Maquina de guerra  (2025) Web dl Hd 1080p  [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c9785a3285a9a81c46955d25c44ff9cbae73d5ae",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Suburbanos 3 (2025) BluRay Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=707d46d47aa04ddcb28ce5c0d186bf68f767bad1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Suburbanos 3 (2025) BluRay 720pRip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a83bed78b46fff872de1c08dd9d317b5bb724935",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Suburbanos 3 (2025) Web dl Hd 1080p  [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0fc0dc00b1723873d2ce59772e2102837711cfcc",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mirada asesina (2025) BluRay Rip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0a181c8d7487b5791dc342d4c2ac4a4913f1a358",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mirada asesina (2025) BluRay 720pRip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7056238941d40fdfd3496a72a242a94d359b1879",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mirada asesina (2025) Web dl Hd 1080p  [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=aa76f8ebb6f5d0b99f5c550f59b87f667c4c8eb9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La tregua  (2025) BluRay Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b98f5f78b4693b7cf3e3aa8bd3cf05258db3a017",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La tregua  (2025) BluRay 720pRip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3a031b8a4166a5c571abd27a478a02daf5cd88b0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La tregua  (2025) Web dl Hd 1080p  [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6c23c2526597b4f9073ec5969fce73081d1d388f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un dia con Peter Hujar (2025) BluRay Rip [5.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ced9dc7fcf546fd60baefdaae6bc1d0372653583",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un dia con Peter Hujar (2025) BluRay 720pRip [5.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6859db654d802a66a3d17b2e4c87d8d5257be4d9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Un dia con Peter Hujar (2025) BluRay 1080Rip [5.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=621507fd3a8d0bf315d25a0a936e588caabf315b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La Carretera Interminable  (2025) BluRay Rip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7ef5a5e5ebd326a000585f270cc93aa1d9654645",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La Carretera Interminable  (2025) BluRay 720pRip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8990f8919f5fc029882c5bd702a749fa88276c66",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La Carretera Interminable  (2025) BluRay 1080Rip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e8ca879a6f2a737ffc7abdd74832abf2ac232d0a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La Carretera Interminable  (2025) Web dl Hd 1080p  [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=53e26f9f3878c7b091557ae9493b6cd240914905",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dead Shot (2025) BluRay Rip [5.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=49968001b55d595e56ab4893cffe91b9df5c650f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dead Shot (2025) BluRay 720pRip [5.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0b9214c1f3845d7735a74edf1f3e41a9bde43540",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dead Shot (2025) BluRay 1080Rip [5.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=55714660c619ed07982b569cb6812ce2e58a254a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dead Shot (2025) Web dl Hd 1080p  [5.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2f0ded772cde4f52c59e326cbd4c5ebc53042cef",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No dejemos que esta noche todo se pierda (2025) BluRay Rip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8b7e3365bc3d234cb6c02baf8cd072f6d7995ee3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No dejemos que esta noche todo se pierda (2025) BluRay 720pRip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b82414c85ea7dcc107162d1b9258f1d8a31bc958",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No dejemos que esta noche todo se pierda (2025) BluRay 1080Rip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dbb5d70a330346641920cf7312707b21717bb5da",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No dejemos que esta noche todo se pierda (2025) BluRay 4k 2160P [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3df161d08ccafcd974a7f3e197d53b30b85b5f42",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "No dejemos que esta noche todo se pierda (2025) Web dl Hd 1080p  [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b64cc464ab82dc4263cd91abcbac84750406e627",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Escuadron letal (2025) BluRay Rip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bfdb128ac981935a5ae5f80ad470ea4f9aaeb183",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Escuadron letal (2025) BluRay 720pRip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=54663d943f3923e7fe234a92cbfe2a4bf7d7674c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Escuadron letal (2025) BluRay 1080Rip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d816fb859f5fbc4e2d791f61a6b141531411b254",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Escuadron letal (2025) BluRay 4k 2160P [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ed605a0e7e1c3bf3f7e627b2a4701485c3055b3b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Escuadron letal (2025) Web dl Hd 1080p  [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f75febe9d22d717d2cce9d13eb51585fb0fd5165",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Bambi La Venganza (2025) BluRay Rip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a9e73a9ef60d03778b5996f4e22bbc695af1a6e4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Bambi La Venganza (2025) BluRay 720pRip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7f73eb59c11f8ebdf24240dc4bb7a67336e14de3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Bambi La Venganza (2025) BluRay 1080Rip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=98d86e50f0a8cd7ffa7af1068f313214fe7e3f42",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Bambi La Venganza (2025) BluRay 4k 2160P [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fa6fe84971ceb249caf60bd02a1b3ce2968b6298",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Bambi La Venganza (2025) Web dl Hd 1080p  [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3710e6028689ca59c38774ada83e150553f36f16",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los domingos (2025) BluRay Rip [7.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d9c956badb3c5fb74bfbf4d8a39104d1999fed6f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los domingos (2025) BluRay 720pRip [7.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2e83585da67955c72f5064e936adeee059072fb0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los domingos (2025) BluRay 1080Rip [7.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2f14586628a0dc896f809201412591d448107d84",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los domingos (2025) BluRay 4k 2160P [7.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5c2602d7c01d24ec650f0677cb7eb0ed874d008e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los domingos (2025) Web dl Hd 1080p  [7.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=5fd0132466b6c0b9c2a06a3953af3da9b15eb462",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DJ Ahmet  (2025) BluRay Rip [7.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b239946aa632e88dac228c3f4af7dfc3054623a7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DJ Ahmet  (2025) BluRay 720pRip [7.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bc661dd73436924914b6387d1f5a2a9e7600bdab",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "DJ Ahmet  (2025) Web dl Hd 1080p  [7.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c658f5c13e7c895ee20c61ab284d8ad75b9c9e1f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Suenos en Oslo  (2025) BluRay Rip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7a448100e2976d9aea098888c290274bd8111f85",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Suenos en Oslo  (2025) BluRay 720pRip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6dad5488c85518481d0cdc7951ab6bf6cdc9112c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Suenos en Oslo  (2025) Web dl Hd 1080p  [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=373960f9552bb9a26f6b137d576840815874569f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cortafuego (2025) BluRay Rip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ac95a0f2f2eb6f60ccc327d3e591a79e43e67006",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cortafuego (2025) BluRay 720pRip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fa3b62a726832c7de40e26a19bf6005ceac6168b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Cortafuego (2025) Web dl Hd 1080p  [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=eecc9ea38adceaf18776f9c807cdfc9931cdbd26",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nuremberg (2025) BluRay Rip [7.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=671c5b60b41c11789a6eaad19397c2c7d1bd0836",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nuremberg (2025) BluRay 720pRip [7.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d9b7db2b5b0a8d29cf8866d765380a3e06db5fad",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nuremberg (2025) BluRay 1080Rip [7.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4b071d80fd3011c48b5d9064becb836e72f96a0c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Nuremberg (2025) BluRay 4k 2160P [7.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=75d25c130b4c313e642d1e248b57f6728fbf9788",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "En un instante (2025) BluRay Rip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=26fb7e6ea72e5e721037ecf4cfe3ff897d119073",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "En un instante (2025) BluRay 720pRip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4a81a3fcfa0244364bfdb33019a53e568ee9e211",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "En un instante (2025) BluRay 4k 2160P [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=204cda09a83ea25eb455cb9bf139b5e2dbf411ea",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Leo and Lou  (2025) BluRay Rip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2be7d20d1c29027ca86fa05e3f4cf5b52498ad75",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Leo and Lou  (2025) BluRay 720pRip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c74b6c141d9106317ed1a94a1756ae3cdc4d5841",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Muerte en invierno (2025) BluRay Rip [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3f777d964f98604262c4aba7929cb7a7d8a95ba3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Muerte en invierno (2025) BluRay 720pRip [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2aebde8ee5c061eda21219764026d1dbc2cb9725",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Somnium (2025) BluRay 720pRip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bbd71c4dba90d421784d86f63b832f034b5c880c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Somnium (2025) BluRay 1080Rip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=079db32c44f11ce16980194bddefc360ab328921",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Parecido a un asesinato (2025) BluRay Rip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=a8fde99315b1ca5327f1819eb93a7b702807ad49",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Parecido a un asesinato (2025) BluRay 720pRip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=98020a5a3dd3c6e49f258cc40fadbe6930002c8f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Hi-Five (2025) BluRay Rip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=256f87b603a52e38a5e8a9379934455bde0575f8",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Hi-Five (2025) BluRay 720pRip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ac003eb9fa348ecc1ea186eb7f10b2d0752870b1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Hi-Five (2025) BluRay 1080Rip [6.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5bb5af7933747787e3f83dcfbe473c08cf415649",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La resistencia invisible (2025) BluRay Rip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=81684000793b6e803d5670e379ee7884c89e27d9",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La resistencia invisible (2025) BluRay 720pRip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=71db1de867fb2f35060b14a1aea3a5c5f1716fcf",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dracula (2025) BluRay Rip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=06639927b57388f8525e031d24bee1cfb253a271",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dracula (2025) BluRay 720pRip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=02a8237f084c6df64a146a99266fdcf385797d14",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dracula (2025) BluRay 1080Rip [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3b4162d4c505304ce15e8e4ccc9e3a859d06d546",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Dracula (2025) BluRay 4k 2160P [7.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9ab1445b7f95d923c241e0cd01a7112957d5779a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Calle Malaga (2025) BluRay Rip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e41fac5abe0728bb8e01bccdf4f92be90a7b775f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Calle Malaga (2025) BluRay 720pRip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7efd5e74173254dba370225d73e4bd81f447c433",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El engano (The Bluff) (2025) BluRay Rip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cc254d15f6122e39141a3f8112d44fe349dfea42",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El engano (The Bluff) (2025) BluRay 720pRip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7e2e40086b5bd2e2c69e8618e1bc30976816f3ca",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El engano (The Bluff) (2025) BluRay 1080Rip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9d119ceadfdfd30f8cd026f10074a2113686e38d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El engano (The Bluff) (2025) BluRay 4k 2160P [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1e65f517d75a698741997e94e1629a54b85e83ab",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los huerfanos (The Orphans) (2025) BluRay 1080Rip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ca48ce78ac46f6ca95ec14a68bf3456b1a591046",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los huerfanos (The Orphans) (2025) BluRay 4k 2160P [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=506203b0b88ba998ff4487017ac732bf4d20aaeb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Christy el combate de su vida (2025) BluRay Rip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8178e347149cc0af166e9e00b450e2fb1fb9e4df",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Christy el combate de su vida (2025) BluRay 720pRip [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ae7a7e7ab23463cd8dbbab602dea0364209294db",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Christy el combate de su vida (2025) BluRay 4k 2160P [7.2]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7a697f0d88d70540606d319b5c7cf0ea2be7a162",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los Tigres (2025) BluRay 1080Rip [6.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9a49326e4e7a88534ea845005c3c46d39950ca48",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Los Tigres (2025) BluRay 4k 2160P [6.4]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=9278caa9a19d057b1915867950535eaa891f7274",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+   {
     "name": "Rental Family (2025) BluRay 4k 2160P [7.8]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=1f2b8ae41db0d605bdd6b0ff6c6555c02be49e90",
     "kid": "",
@@ -790,7 +3211,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   }, 
-      {
+   {
     "name": "Ella McCay  (2025) BluRay Rip [5.2]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=69d473f21484b6cbcb9c4f42a82f7759c83ef632",
     "kid": "",
@@ -958,7 +3379,7 @@
     "drm_scheme": "clearkey",
     "extension": ""
   }, 
-     {
+   {
     "name": "Maspalomas (2025) BluRay Rip [8.0*]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=37a6c4f4332d0338f217c829cb5370e9b32e014c",
     "kid": "",
@@ -21131,6 +23552,118 @@
 {
     "name": "♦️ PELÍCULAS 2024",
     "samples": [
+      {
+    "name": "Aqui y Alla (2024) BluRay Rip [5.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5d544806faf3ecd4d7540ea9ac84947f01533d44",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Aqui y Alla (2024) BluRay 720p [5.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=12a0c790a8e268edd5104dbedba13d19e2953e6f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Aqui y Alla (2024) BluRay 1080p [5.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=18cb21aaca0a08e941dc9c6338424922420525c5",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Aqui y Alla (2024) web dl Hd 1080p [5.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=42d05086dc8462515ed296259c78e675840c6cd2",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Aqui y Alla (2024) BluRay 4k 2160P [5.9*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dd24faae728339f090c8a0b1244171e3c0128721",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La leyenda del castillo (2024) BluRay Rip [5.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=cef8e8b1920710d669d3d300b531364c94e58c56",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La leyenda del castillo (2024) BluRay 720p [5.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=106b20425ae38b1352dbec8e132361b916098217",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La leyenda del castillo (2024) web dl Hd 1080p [5.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=82136cfe427d7f523c62192ba50a1ed9d5d3a0ad",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Tienes 24 horas (2024) BluRay Rip [4.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2f256b5b3fc2c87b06c2009f4b430c9427ccaf6c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Tienes 24 horas (2024) BluRay 720p [4.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5d0f2de4e6992d4fc7516973f201a5c7e5a7590a",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Tienes 24 horas (2024) web dl Hd 1080p [4.8*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0af753168a4b4445d28b54a4ffccdc1413af24cb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mongol (2024) BluRay Rip [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=26696b7bdb5cb213e73ce79d184eeddad394333f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mongol (2024) BluRay 720p [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3d3e38dbffad28d5fb7ed69a5127b698bdffa801",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Mongol (2024) web dl Hd 1080p [6.5*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=62cbab3ac4c84f7f5d6bc6c10336938bdcad59aa",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
   {
     "name": "Los Radley (2024) BluRay Rip [5.0]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=7d00efe44b904f7b01111ff54207e3b22af2aa3d",
@@ -27024,6 +29557,30 @@
   {
     "name": "Dark Glasses (2022) web dl Hd 1080p [5.0*]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=7b31f83bf0167e8597c042d9cbe73ee818632044",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+    {
+    "name": "La cabana siniestra (2020) BluRay Rip [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=63b9f78c644b69ef9d9eb4889c1be89f4f8ea924",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La cabana siniestra (2020) BluRay 720p [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d374f4b187c16f893e54e4ad1c58d995e7998e59",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La cabana siniestra (2020) web dl Hd 1080p [6.0*]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=671f50d82887f83179a282deabde7a406e63ecc0",
     "kid": "",
     "key": "",
     "drm_scheme": "clearkey",
