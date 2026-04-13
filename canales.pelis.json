@@ -30,6 +30,382 @@
  {
     "name": "♦️ PELÍCULAS 2026",
     "samples": [
+ {
+    "name": "Infierno Bajo Cero (2026) BluRay Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=88532138a2070baf2bee2cfd16e26e7c2e29697d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Infierno Bajo Cero (2026) BluRay 720pRip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1e5ade686cee76e5f9748fbab05bd3ada67ceb0c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Infierno Bajo Cero (2026) BluRay 1080Rip [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ac1f53cf364cb5e89c8dd27b38b1e924e18706c3",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Infierno Bajo Cero (2026) BluRay 4k 2160P [5.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1f2bea84ffb331068a465fe03624a9d437fbf8fb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La Asesina Inconsciente (2026) BluRay Rip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6ad09ea7d9fe9f1eed9c71710389ee132bd26194",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La Asesina Inconsciente (2026) BluRay 720pRip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fde273e54e22bfd7992146cc7de27823a687bb44",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El extranjero (L etranger) (2026) BluRay Rip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=65af4b2cd412c443d202e48d4cf6f76c925ae4c1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El extranjero (L etranger) (2026) BluRay 720pRip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fc6527d7d10f2d5abb39029ebb5b3c1d1ce229d4",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El extranjero (L etranger) (2026) BluRay 1080Rip [6.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=1ffad504a261e4713dd7e8575f858db022494ef1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "The Smashing Machine (2026) BluRay Rip [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ce3757b80a953eb7136f1b7993acd1691bb998b2",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "The Smashing Machine (2026) BluRay 720pRip [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0cf0e4ec4a090016fcff1a3c3ec1e4ad079cfa03",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "The Smashing Machine (2026) Web dl Hd 1080p  [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ed6cc516a2f031024d16cb38f2b7805d209e33ae",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Outcome  (2026) BluRay Rip [7.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=4bdcd726b2d3917fcf9c0d323488ffadcd31795b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Outcome  (2026) BluRay 720pRip [7.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c7511a47a8d1738929a6b086c172ed3f6b975753",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "18 rosas  (2026) BluRay Rip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=d6160440a2087ea61364874ca83e62dd2ea7825e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "18 rosas  (2026) BluRay 720pRip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ad1bffcd6b016e150cd5b7b71a35b01bcb963223",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Embestida  (2026) BluRay Rip [5.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=7cff3da6de0bb8f2e0564cff49a502681c489044",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Embestida  (2026) BluRay 720pRip [5.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=98f7f4cb8a25da12c173178781d4c016c8a92767",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Embestida  (2026) BluRay 4k 2160P [5.9]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0ec282b2d02bee03dfa31094879ca8db301076ba",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sniper En tierra de nadie (2026) BluRay Rip [5.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f868ede6f37f035e80fe12ccee2717302bbe340d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sniper En tierra de nadie (2026) BluRay 720pRip [5.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=e5cb55e6d8540ea107219135f959ea6528947654",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sniper En tierra de nadie (2026) BluRay 4k 2160P [5.8]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=76bfb18515b262b1a6e9fb81f2be91c81487e2d2",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "5 libras de Presion (2026) BluRay Rip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=47bc2180d80e1ecdf716420fdac6bd4dff876458",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "5 libras de Presion (2026) BluRay 720pRip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=979286f420e4f3551fc369d9132fee79214c3278",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "5 libras de Presion (2026) BluRay 1080Rip [6.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=56e2fbeda3358d38c49f2ddc351b9dceec6b5ffa",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Vida privada (Vie privee) (2026) BluRay Rip [5.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=b9bc02ef6d73bb0fcd3cee7bebfd26112a1a0629",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Vida privada (Vie privee) (2026) BluRay 720pRip [5.7]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=336cbe9aebdcfa73e74c59ccf221c4ace2a10406",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La casa del terror (2026) BluRay Rip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6ec4e95415cf1a513dffdd06a938e2033c4a360d",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La casa del terror (2026) BluRay 720pRip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=33eb31ab0e038f480c213c14a481d556ec04655e",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La casa del terror (2026) BluRay 1080Rip [5.6]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=f590b9af2c1e663f1bbb5fb52ead85047c432983",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zero (2026) BluRay Rip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=072a20612d3458b10e540ce5f70fade538714620",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zero (2026) BluRay 720pRip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=3988a3433a63666299c84db7af800badda1f8d65",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Zero (2026) BluRay 1080Rip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fd82fc3c4c65472b869bee1f0469cbbc77b74f35",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La novia (2026) BluRay Rip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=346b82a588927d12b98b40f7774fc78c12ee25f7",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La novia (2026) BluRay 720pRip [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6fa8ca00cb20341c2e2a62b963a4577df043e083",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La novia (2026) BluRay 4k 2160P [6.3]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=0d9c468e7d92325c183bc298ed27ce41ddbeed36",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Brides (2026) BluRay Rip [7.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=5ebaf7bc63c9d8d5e3c9f38b6fbe8ffaf4392886",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Brides (2026) BluRay 720pRip [7.0]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=bcdf9092e56fe89517479f9feaba9204c9d8c5eb",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sobran Las Palabras (2026) BluRay Rip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=dde4978a5ff85645068b89d1e04d12cc3e1e528b",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sobran Las Palabras (2026) BluRay 720pRip [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=001937d6570ac8adac2ab092efba4c5d1838a516",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "Sobran Las Palabras (2026) Web dl Hd 1080p  [6.1]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=ddcd75d95201443c99be7f1c7c4bc2ba1b3ca61f",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El medico II  (2026) BluRay Rip [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=6e551e321a92daf558d07b89bdc90af863c7de0c",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El medico II  (2026) BluRay 720pRip [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8059f7bc6876999218a3b883f6c93070bff84399",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "El medico II  (2026) Web dl Hd 1080p  [6.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=8c8046dd0ab72fcc2615cc93ed6067b8ce9d9c44",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La mujer policia 3 (2026) BluRay Rip [7.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=fdf4e06862e6d75ddabb17b1d9a0e419f734a476",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La mujer policia 3 (2026) BluRay 720pRip [7.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=c31a9d315e149b77d4e9e8810e42f028de337bb0",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  },
+  {
+    "name": "La mujer policia 3 (2026) BluRay 1080Rip [7.5]",
+    "uri": "http://127.0.0.1:6878/ace/getstream?id=2cfa3fe70a4eab75b554bf873eea0c38dda972b1",
+    "kid": "",
+    "key": "",
+    "drm_scheme": "clearkey",
+    "extension": ""
+  }, 
       {
     "name": "Ruta de escape (2026) BluRay Rip [7.0]",
     "uri": "http://127.0.0.1:6878/ace/getstream?id=14bd8336c373f8a813a06be70d109baae1457bcf",
